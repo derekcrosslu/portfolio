@@ -39,13 +39,13 @@ export default function Navbar() {
                 <a href="#">Services</a>
               </li>
               <li className="py-2 flex text-white font-medium items-center leading-snug hover:opacity-40">
-                <a href="#">Portfolio</a>
+                <a href="#portfolio">Portfolio</a>
               </li>
               <li className="py-2 flex text-white font-medium items-center leading-snug hover:opacity-40">
                 <a href="#">About</a>
               </li>
               <li className="py-2 flex text-white font-medium items-center leading-snug hover:opacity-40">
-                <a href="#">Contact Me</a>
+                <a href="#contactme">Contact Me</a>
               </li>
             </div>
             <div className="lg:w-1/3 flex items-center justify-end">
