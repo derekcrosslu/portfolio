@@ -65,7 +65,7 @@ const Hero = () => {
           <h1 className="bg-gradient-to-r from-[#bcffa4] to-[#f49872] text-transparent bg-clip-text md:text-7xl text-3xl text-center font-semibold">
             Derek Cross
           </h1>
-          <p className="text-[#c3d9bd] md:text-2xl text-center mt-4">
+          <p className="text-[#a7a7a6] md:text-2xl text-center mt-4">
             SOFTWARE ENGINEER // PRODUCT DESIGNER
           </p>
         </div>
